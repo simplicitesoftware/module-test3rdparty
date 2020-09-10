@@ -239,7 +239,7 @@
 		<obo_type>O</obo_type>
 		<obo_searchspec/>
 		<obo_delspec/>
-		<obo_exportorder/>
+		<obo_exportorder>1</obo_exportorder>
 		<obo_distinct>0</obo_distinct>
 		<obo_indexable>0</obo_indexable>
 		<obo_groupby>0</obo_groupby>
@@ -774,6 +774,16 @@
 		<tsl_value>View 2</tsl_value>
 		<tsl_help/>
 		<row_module_id.mdl_name>Test3rdParty</row_module_id.mdl_name>
+	</data>
+</object>
+<object>
+	<name>Dataset</name>
+	<action>upsert</action>
+	<data>
+		<row_module_id.mdl_name>Test3rdParty</row_module_id.mdl_name>
+		<dt_name>Test3rdParty-data</dt_name>
+		<dt_file>data/Test3rdParty-data.zip</dt_file>
+		<dt_desc><![CDATA[Created by module's data export on 2020-09-10 23:56:03]]></dt_desc>
 	</data>
 </object>
 </simplicite>
