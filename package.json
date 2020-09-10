@@ -1,0 +1,9 @@
+{
+    "name": "Test3rdParty",
+    "format": "xml",
+    "description": "",
+    "files": ["Test3rdParty.xml"],
+    "repository": {},
+    "version": "4.0",
+    "dependencies": {"Simplicite": "4.0"}
+}
