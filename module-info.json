@@ -1,9 +1,9 @@
 {
-    "date": "2021-03-12 18:11:47",
+    "date": "2021-05-07 21:54:34",
     "name": "Test3rdParty",
     "format": "xml",
     "files": ["Test3rdParty.xml"],
-    "repository": {},
+    "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-test3rdparty.git"}},
     "version": "5",
     "platform": "5.2.0-alpha"
 }

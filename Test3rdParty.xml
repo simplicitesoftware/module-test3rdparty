@@ -92,7 +92,7 @@
 		<fld_more>0</fld_more>
 		<fld_listmore>0</fld_listmore>
 		<fld_listsum/>
-		<fld_tray/>
+		<fld_tray>0</fld_tray>
 		<fld_type>23</fld_type>
 		<fld_type_id.flt_code/>
 		<fld_list_id.lov_name/>
@@ -108,7 +108,7 @@
 		<fld_updall>1</fld_updall>
 		<fld_case/>
 		<fld_righttoleft>0</fld_righttoleft>
-		<fld_rendering/>
+		<fld_rendering>HEX</fld_rendering>
 		<fld_speech/>
 		<fld_calc/>
 		<fld_objlist/>
@@ -129,7 +129,7 @@
 		<fld_more>0</fld_more>
 		<fld_listmore>0</fld_listmore>
 		<fld_listsum/>
-		<fld_tray/>
+		<fld_tray>0</fld_tray>
 		<fld_type>3</fld_type>
 		<fld_type_id.flt_code/>
 		<fld_list_id.lov_name/>
@@ -291,6 +291,8 @@
 		<obo_search_ts/>
 		<obo_minrows/>
 		<obo_maxrows/>
+		<obo_sortable>1</obo_sortable>
+		<obo_list_areas>1</obo_list_areas>
 	</data>
 </object>
 <object>
@@ -521,6 +523,7 @@
 		<vwi_show/>
 		<vwi_url><![CDATA[[EXPR:HTMLTool.getExternalObjectURL("T3pTestChart")]]]></vwi_url>
 		<vwi_image/>
+		<vwi_treeview_id.trv_name/>
 		<vwi_crosstab_id.ctb_name/>
 		<vwi_printtmpl_id.prt_name/>
 		<vwi_printtmpl_id.prt_lang/>
@@ -539,6 +542,7 @@
 		<vwi_show/>
 		<vwi_url><![CDATA[[EXPR:HTMLTool.getExternalObjectURL("T3pTestTable")]]]></vwi_url>
 		<vwi_image/>
+		<vwi_treeview_id.trv_name/>
 		<vwi_crosstab_id.ctb_name/>
 		<vwi_printtmpl_id.prt_name/>
 		<vwi_printtmpl_id.prt_lang/>

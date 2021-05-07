@@ -1,4 +1,4 @@
-var T3pTestChart = T3pTestChart || (function() {
+var T3pTestChart = (function() {
 	function chart(name, color) {
 		cytoscape({
 		  container: $("#T3pTestChart"),
